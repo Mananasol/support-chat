@@ -1,0 +1,36 @@
+{
+    "metaTitle": "AuditGear Support Dashboard",
+    "favicon__url": "https://auditgear.com/favicon.ico",
+    "company_name": "AuditGear",
+    "company_site_name": "auditgear.com",
+    "company_site_url": "https://auditgear.com/",
+    "company_logo_white__url": "assets/img/logos/tiledesk-logo_white_orange.svg",
+    "company_logo_black__url": "assets/img/logos/tiledesk_2.0_logo_black_v2.svg",
+    "company_logo_allwhite__url": "assets/img/logos/tiledesk_2.0_logo_all_white_v2.svg",
+    "company_logo_no_text__url": "assets/img/logos/tiledesk-solo-logo.png",
+    "sidebar__hide_changelog_rocket": true,
+    "privacy_policy_link_text": "Privacy Policy",
+    "privacy_policy_url": "https://auditgear.com/Privacypolicy",
+    "display_terms_and_conditions_link": true,
+    "terms_and_conditions_url": "https://auditgear.com/Terms_Conditions",
+    "contact_us_email": "info@auditgear.com",
+    "footer": {
+        "display_terms_and_conditions_link": true,
+        "display_contact_us_email": true
+    },
+    "recent_project_page": {
+        "company_logo_black__width": "130px"
+    },
+    "signup_page": {
+        "display_terms_and_conditions_link": true
+    },
+    "handle_invitation_page": {
+        "company_logo_45x45": "assets/img/logos/tiledesk-solo-logo.png"
+    },
+    "wizard_create_project_page": {
+        "logo_x_rocket": "assets/img/logos/logo_x_rocket4x4.svg"
+    },
+    "wizard_install_widget_page": {
+        "logo_on_rocket": "assets/img/logos/tiledesk-solo-logo.png"
+    }
+}

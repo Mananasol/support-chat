@@ -1,6 +1,6 @@
 {
-  "name": "@tiledesk/tiledesk-dashboard",
-  "version": "2.2.31-rc8",
+  "name": "@mananasol/support-chat",
+  "version": "1.2.3",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --aot",
@@ -13,10 +13,10 @@
   },
   "author": "Tiledesk SRL",
   "license": "AGPL-3.0",
-  "homepage": "https://www.tiledesk.com",
+  "homepage": "https://www.auditgear.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tiledesk/tiledesk-dashboard"
+    "url": "git+https://github.com/Mananasol/support-chat.git"
   },
   "bin": {
     "tiledesk-dashboard": "./bin/dashboard"
@@ -78,7 +78,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.13.0",
     "@angular/cli": "^7.3.5",
-    "@angular/compiler-cli": "^5.2.11",
+    "@angular/compiler-cli": "^13.2.0",
     "@angular/language-service": "^5.0.2",
     "@types/bootstrap": "3.3.32",
     "@types/chartist": "0.9.34",

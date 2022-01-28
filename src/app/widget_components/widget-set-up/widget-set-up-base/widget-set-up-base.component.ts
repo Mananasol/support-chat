@@ -61,7 +61,7 @@ export class WidgetSetUpBaseComponent extends WidgetSharedComponent implements O
         }
       ],
       'en': {
-        'wellcomeTitle': 'Hi, welcome to tiledesk 👋 ',
+        'wellcomeTitle': 'Hi how are you, welcome to tiledesk 👋 ',
         'wellcomeMsg': 'How can we help you?',
         'calloutTitle': 'Need Help?',
         'calloutMsg': 'Click here and start chatting with us!',
